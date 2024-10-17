@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://faqiqawowee.pages.dev/sitemap.xml
